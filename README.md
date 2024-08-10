@@ -1,7 +1,12 @@
+<p align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-1556.gif" alt="header" width="700" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Grace</h1>
 <h3 align="center">A passionate programmer/Learner</h3>
+<img align="right" alt="Coding" width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJyYWU5enNrYzVhN2d0d3YxZ2s1YmhvbjlqZHdjbDJicm83Mm4yYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp">
 
-<p align="right"> 
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=1166hjs&label=Profile%20views&color=0e75b6&style=flat" alt="1166hjs" /> 
 </p>
 
@@ -16,12 +21,8 @@
 - 📫 How to reach me **1166hjs@gmail.com**
   
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<h2 align="left">Languages and Tools:</h2>
+<p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a> 
@@ -47,3 +48,33 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
 </p>
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/grace-song-b192a430b/" target="_blank" rel="noreferrer">
+    <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" alt="linkedin" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.instagram.com/grace5ong/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="instagram" width="40" height="40"/> 
+  </a>
+</p>
+
+
+
+<p align="center">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</p>
+
